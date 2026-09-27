@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "منتج تجريبي 1",
+      "price": 50,
+      "category": "عام",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "منتج تجريبي 2",
+      "price": 100,
+      "category": "عام",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
